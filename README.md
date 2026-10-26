@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lincoln Institute of Land Policy is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://cgs.earth
+The Lincoln Institute of Land Policy is a nonprofit research organization dedicated to improving the use, taxation, and stewardship of land. It conducts interdisciplinary research, provides policy analysis, and offers educational resources on land economics, land use, and fiscal systems. The institute engages scholars, policymakers, and practitioners worldwide to develop data-driven solutions for sustainable land management and equitable land taxation.
+
+**Areas:** Company · Research · LandPolicy · Nonprofit · Education
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lincolninst.edu)
+- [Sign up](https://go.lincolninst.edu/sign-up-for-land-lines)
+- [Terms of service](https://www.lincolninst.edu/terms-service/)
+- [Privacy policy](https://www.lincolninst.edu/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lincoln-institute-of-land-policy/](https://apis.io/providers/lincoln-institute-of-land-policy/).
